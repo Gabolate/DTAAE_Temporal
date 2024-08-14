@@ -11,6 +11,8 @@ DTAAE is a malware i've made in C# to destroy data while avoiding antiviruses.
 
 No special effects nor other stuff, just direct, small and fast malware
 
+(I only tested this on Win 7 and Win 10. Other systems like XP or 11 might not work)
+
 I have tested 14 AVs and all of them failed protecting the computer 
 
 (Note: the results can change in the future)
