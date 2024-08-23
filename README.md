@@ -74,7 +74,7 @@ If you are one of them, please follow these instructions:
 
 - Extract DTAAE on a VM WITHOUT internet, i don't want this to be automatically sent to random servers
 
-  (This also includes NOT using public sandboxes like Any.Run or Intezer Analyzer)
+  (This also includes NOT using public sandboxes like Any.Run or Intezer Analyzer or VirusTotal)
 
 - Make sure your VM has .NET Framework 3.5 Installed (Check 'Turn On or Off Windows features' to install it)
 
