@@ -76,4 +76,4 @@ If you find DTAAE being distributed without my permission, please report it imme
 
 ---
 
-Made by **Gabolate (Gabe)** ∑:3 | 2024.
+Made by **Gabolate (Gabe)** ∑:3 | 2024 - 2026.
